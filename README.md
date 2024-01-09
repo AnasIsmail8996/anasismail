@@ -3,8 +3,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 <h1 align="center">Hi 👋, I'm Anas Ismail</h1>
 <h3 align="center">A passionate frontend developer from karachi, Pk</h3>
-<img align="right" alt="Programmer_Situation like this" width="500"  src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
-<img align="left" alt="Programmer_Situation like this" width="500" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" alt="Programmer_Situation like this" width="500" height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<img align="left" alt="Programmer_Situation like this" width="500" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 
 
